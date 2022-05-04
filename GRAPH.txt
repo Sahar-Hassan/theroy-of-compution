@@ -1,0 +1,25 @@
+A B C D E F H G I K
+0 1
+A
+E
+A 0 B 
+A 1 C 
+B 0 C 
+B 1 D 
+C 0 E 
+C 1 F 
+D 0 G 
+D 1 F 
+E 0 D 
+E 1 B   
+F 0 D 
+F 1 H 
+H 0 I 
+H 1 D 
+G 0 H 
+G 1 I 
+I 0 I 
+I 1 F 
+K 0 F 
+K 1 I 
+  
